@@ -1,7 +1,7 @@
 integrantes nombre matricula y que hicieron 
-1.
-2.
-3.
+1. Jonatan Reyes Muñoz 2135122 Validadores y captura de datos
+2. Luis Guillermo Garza Ancona 2146464
+3. Jose Luis Rodriguez Fuentes 2225330 guardado a csv 
 4.
 5.
 6.
